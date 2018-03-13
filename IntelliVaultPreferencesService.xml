@@ -1,0 +1,10 @@
+<application>
+  <component name="IntelliVaultPreferencesService">
+    <option name="vaultPath" value="D:\Documents\AEM\filevault-3.1.38" />
+    <option name="repoConfigs">
+      <map>
+        <entry key="admin@http://localhost:4502" value="Dogbark1" />
+      </map>
+    </option>
+  </component>
+</application>
